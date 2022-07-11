@@ -15,4 +15,4 @@ I’m familiar with HTML, CSS, JavaScript, APIs, OOP, Git/GitHub, and Web Access
 - [Email](mailto:frejes32@gmail.com)
 - [Twitter](https://twitter.com/jesse__french)
 - [LinkedIn](https://linkedin.com/in/jessekfrench)
-- [AngelList](https://angel.co/u/jesse-french-1)
+- [AngelList](https://angel.co/u/jessefrench)
