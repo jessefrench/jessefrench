@@ -8,7 +8,7 @@ Like most of the world, the Covid-19 pandemic changed my normal. I went from bei
 I’m familiar with HTML, CSS, JavaScript, APIs, OOP, Git/GitHub, and Web Accessibility, but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers, so feel free to connect!
 
 ### What's new?
-- I’m currently working on my [portfolio](https://jessefrench.netlify.app)
+- I’m currently working on my [portfolio](https://jessefrenchdev.com)
 - I’m currently learning Node, Promises, Async/Await
 
 ### Let's connect!
