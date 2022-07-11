@@ -7,11 +7,12 @@ Like most of the world, the Covid-19 pandemic changed my normal. I went from bei
 
 I’m familiar with HTML, CSS, JavaScript, APIs, OOP, Git/GitHub, and Web Accessibility, but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers, so feel free to connect!
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Node, Promises, Async/Await
-- 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with networking
-- 💬 Ask me about my pets
-- 📫 How to reach me: frejes32@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Psyduck is my favorite Pokémon
+### What's new?
+- I’m currently working on my [portfolio](https://jessefrench.netlify.app)
+- I’m currently learning Node, Promises, Async/Await
+
+### Let's connect!
+- [Email](mailto:frejes32@gmail.com)
+- [Twitter](https://twitter.com/jesse__french)
+- [LinkedIn](https://linkedin.com/in/jessekfrench)
+- [AngelList](https://angel.co/u/jesse-french-1)
