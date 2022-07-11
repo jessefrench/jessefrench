@@ -14,4 +14,4 @@ I’m familiar with HTML, CSS, JavaScript, APIs, OOP, Git/GitHub, and Web Access
 - 💬 Ask me about my pets
 - 📫 How to reach me: frejes32@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Psyduck is my favorite Psyduck Pokémon
+- ⚡ Fun fact: Psyduck is my favorite Pokémon
