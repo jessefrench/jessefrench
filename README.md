@@ -3,9 +3,11 @@
 ### Hi there 👋
 I'm Jesse. A passionate, creative, and detail-oriented software engineer committed to developing responsive and accessible solutions for today’s modern problems. I’m looking for an opportunity to challenge myself and work on projects that require critical analysis and creative problem-solving.
 
-Like most of the world, the Covid-19 pandemic changed my normal. I went from being a touring musician to being grounded. During this time, I went back to school for network administration, took a JavaScript course, and discovered that I really enjoyed coding. Upon receiving my degree, I started learning web development in my free time. I realized it was the perfect way to blend being analytical and creative, and I fully invested myself in software engineering.
+## Projects
 
-I’m familiar with HTML, CSS, JavaScript, APIs, OOP, Git/GitHub, and Web Accessibility, but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers, so feel free to connect!
+| <br> Umamichi Japanese Cuisine <br><br> ![umamichi](https://user-images.githubusercontent.com/106822556/179422173-07671655-5420-4cb6-8598-bb6bececbc9e.png) <br><br> [Repo](https://https://github.com/jessefrench/umamichi) \| [Website](https://umamichi.netlify.app) <br><br> HTML, CSS, JavaScript - a hip restaurant website that includes a separate menu page, a responsive sidebar navigation menu, and showcases unique dishes with an interactive image carousel | <br> Wanderlust Hair Salon <br><br> ![wanderlust](https://user-images.githubusercontent.com/106822556/179422182-32e79569-c205-4bce-a2c3-110d09644694.png) <br><br> [Repo](https://https://github.com/jessefrench/wanderlust) \| [Website](https://wanderlustsalon.netlify.app) <br><br> HTML, CSS, JavaScript - a beautiful and modern website for a trendy full-service hair salon that includes a sidebar navigation menu for mobile and a responsive image lookbook |
+| :---: | :---: |
+| <br> **Level Up MMA <br><br> ![level-up](https://user-images.githubusercontent.com/106822556/179422610-5e7e5ded-a7bd-49e2-aae4-cdcdbab0e5b3.png) <br><br> [Repo](https://https://github.com/jessefrench/level-up) \| [Website](https://levelupmma.netlify.app) <br><br> HTML, CSS - a clean and simple website for a youth-focused mixed martial arts gym** | <br> **Personal Portfolio <br><br> ![portfolio](https://user-images.githubusercontent.com/106822556/179422805-b5e896cf-67c1-4bea-9fe9-5b9dea1b0eab.png) <br><br> [Repo](https://https://github.com/jessefrench/portfolio) \| [Website](https://jessefrenchdev.com) <br><br> HTML, CSS, JavaScript, SCSS - my personal portfolio website. Feel free to take a look around!** |
 
 ### What's new?
 - I’m currently working on my [portfolio](https://jessefrenchdev.com)
