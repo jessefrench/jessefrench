@@ -21,7 +21,7 @@ See [my website](https://jessefrenchdev.com) for more information!
 | <img src="https://github-readme-stats.vercel.app/api?username=jessefrench&amp;show_icons=true&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessefrench&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=ff712a&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" style="max-width: 100%;"> |
 |:---:|:---:|
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jessefrench&amp;bg_color=1c1917&amp;color=ffffff&amp;line=0891b2&amp;point=ffffff&amp;area_color=1c1917&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" style="max-width: 100%;">
+<img src="https://activity-graph.herokuapp.com/graph?username=jessefrench&amp;bg_color=1c1917&amp;color=ffffff&amp;line=0891b2&amp;point=ffffff&amp;area_color=1c1917&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" style="max-width: 100%;" alt="GitHub Commits Graph">
 
 <h3 align='center'>Let's connect!</h3>
 
