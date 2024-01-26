@@ -4,7 +4,7 @@
 
 ### Hi 👋, I'm Jesse.
 
-I'm a creative and detail-oriented software engineer with an eye for great design. I have a proven track record of creating and implementing successful frontend and backend web applications. I'm looking to bring my skills to a tech company with global reach.
+I'm a creative and detail-oriented web developer with an eye for great design. I have a proven track record of creating and implementing successful frontend and backend web applications. I'm looking to bring my skills to a tech company with global reach.
 
 See [my website](https://jessefrenchdev.com) for more information!
 
