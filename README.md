@@ -4,7 +4,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Jesse.
 
-I'm a creative and detail-oriented software developer with an eye for great design. I have a proven track record of creating and implementing successful frontend and backend web applications. I'm looking to bring my skills to a tech company with global reach.
+I'm a creative and detail-oriented software engineer with an eye for great design. I have a proven track record of creating and implementing successful frontend and backend web applications. I'm looking to bring my skills to a tech company with global reach.
 
 See [my website](https://jessefrenchdev.com) for more information!
 
